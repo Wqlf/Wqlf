@@ -1,16 +1,25 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <style>
+    img {
+  display: block;
+  margin: auto;
+}
+    </style>
+        <meta charset="UTF-8" />
+        <title>Jenna's Portfolio</title>
+    </head>
+    
+    <body>
+    <h1 style="text-align: center">Jenna's Portfolio</h1>
+        <p style="text-align: center"> Here you will find my first experience with coding in an HTML project. 
+            In this project, I've explored different styles and played around with
+            inserting images and GIFs into the pages. I also explored in figuring 
+            out how to color text, center images, and use different font styles 
+            (underline, italicize).
+        
+        </p>
+    </body>
+</html>
 
-<!--
-**Wqlf/Wqlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
